@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # TasksProject
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
+This is a Simple Task-Manager app with Angular
+You will need [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3 to run the project.
 
 ## Development server
 
