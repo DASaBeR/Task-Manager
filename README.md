@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TasksProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.3.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# Task-Manager
+Simple Task-Manager app  with Angular
+>>>>>>> 2509050f26df81659d6cb6babbe673429996d5c2
