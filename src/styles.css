@@ -1,1 +1,23 @@
-/* You can add global styles to this file, and also import other style files */
+body {
+    background-color: #a1d8fd;
+    padding: 4em;
+    font-family: initial 22px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0 0 3em 0;
+    padding: 0;
+    text-align: center;
+}
+
+ul li {
+    display: inline;
+    margin-right: 30px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-size: 24px;
+}

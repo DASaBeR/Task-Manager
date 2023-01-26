@@ -1,0 +1,45 @@
+.container
+{
+    display: grid;
+    grid-template-columns: 50% auto;
+}
+
+.col
+{
+    padding: .4em 1.3;
+}
+
+.coler-dark
+{
+    background: #2885c4;
+}
+
+.color-light
+{
+    background: #75dae8;
+    border-radius: 0 0 20px 20px;
+}
+
+input.text {
+    border: 0;
+    padding: 1em;
+    width: 90%;
+    margin-bottom: 2em;
+}
+
+input.btn {
+    border: 0;
+    border-radius: 20px;
+    display: block;
+    padding: 1em 3em;
+    background-color: rgb(68, 241, 68);
+    color: #112f42;
+    cursor: pointer;
+}
+
+.project-container {
+    background: #317aab;
+    padding: 1em;
+    font-weight: bold;
+    cursor: pointer;
+}
