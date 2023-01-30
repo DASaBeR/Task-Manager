@@ -1,13 +1,18 @@
 <ul>
   <li>
-    <a routerLink="">Home</a>
+    <a routerLink="" routerLinkActive="Active" [routerLinkActiveOptions]="{exact:true}">Home</a>
   </li>
   <li>
-    <a routerLink="Projects">Projects</a>
+    <a routerLink="Projects" routerLinkActive="Activeng">Projects</a>
+  </li>
+  <li>
+    <a routerLink="/profile" routerLinkActive="Active" [queryParams]="{id:1}">Profile User 1</a>
+  </li>
+  <li>
+    <a routerLink="/profile" routerLinkActive="Active" [queryParams]="{id:2}">Profile User 2</a>
   </li>
 </ul>
 
-<app-home></app-home>
 
 
 <router-outlet></router-outlet>
